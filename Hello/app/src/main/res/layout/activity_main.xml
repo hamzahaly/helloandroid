@@ -11,7 +11,7 @@
     tools:context="hello.hamzaha.washington.edu.hello.MainActivity">
 
     <TextView
-        android:text="Hello World!"
+        android:text="Go Seahawks!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
